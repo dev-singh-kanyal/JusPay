@@ -118,7 +118,7 @@ India
 SouthAfrica
 Egypt
 1 China 9
-2 India 9
+1 India 9
 3 Asia 9
 2 India 9
 2 Asia 9
