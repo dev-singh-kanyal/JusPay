@@ -274,7 +274,14 @@ Node *buildTree(Node *root, int &numChildren, vector<string> &nodeLabels)
   return root;
 }
 
-// Input
+// INPUT
+// n = total number of nodes
+// m = number of child per node
+// q = number of queries
+// next 'n' lines = node name in string
+// next 'q' lines = queries with (opcode, string, uid)
+// opcode => 1 = Lock, 2 = Unlock, 3 = Upgrade
+
 // 7
 // 2
 // 5
